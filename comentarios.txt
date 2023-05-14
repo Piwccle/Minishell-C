@@ -1,0 +1,2 @@
+Implementados JOBS Y FG, no ejecuteis un comando como ls en background porque no tiene mucho sentido y la shell se buguea un poco, tal y como le pasa a la propia shell de ubuntu
+ejecutar algo estilo "watch ls &" para probarlo 
